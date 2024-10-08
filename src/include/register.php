@@ -69,7 +69,7 @@ if (isset($_POST["submitUp"])) {
   class="w-screen max-w-md appearance-none rounded-xl bg-zinc-800 p-4 shadow-md shadow-stone-800 backdrop:backdrop-blur-md animate-fade"
 >
   <div class="flex flex-row justify-between">
-    <h1 class="text-4xl font-normal font-archivo tracking-wide text-gray-400">Join Bloob</h1>
+    <h1 class="text-4xl font-normal font-archivo tracking-wide text-gray-400">Join Kacsen</h1>
     <button
     onclick="closeModal('signUp')"
     class="p-2 text-xl font-semibold text-stone-100"

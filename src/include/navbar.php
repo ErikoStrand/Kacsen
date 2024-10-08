@@ -12,7 +12,7 @@ include("include/login.php");
         <a
           class="block px-4 font-heebo text-lg font-bold leading-10 text-stone-50"
           href="/"
-          >Bloob</a
+          >Kacsen</a
         >
       </div>
       <ul
